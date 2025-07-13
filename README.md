@@ -1,4 +1,5 @@
-BUPNON TEA365: Product Launching & Marketing Strategy
+# BUPNON TEA365: Product Launching & Marketing Strategy
+
 This repository presents a comprehensive product launching and marketing strategy for BUPNON TEA365, a herbal tea product targeted at the Gen Z market. The project was developed as part of a business strategy and branding initiative aimed at building a strong brand presence and successful market entry in Vietnam.
 
 📌 Project Overview
